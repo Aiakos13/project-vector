@@ -12,7 +12,7 @@ The folders and files of this project are the following:
 - `source/include`: This is the folder in which you should add the `vector.h` file with your solution (i.e. the implementation of the class `sc::vector`).
 - `source/CMakeLists.txt: The cmake script file.
 - `README.md`: This file.
-- `docs`: This folder has a [pdf file](docs/projeto_TAD_vector.pdf) describing the vector project.
+- `docs`: This folder has a [pdf file](https://github.com/Aiakos13/project-vector/blob/main/docs/projeto_TAD_vector.pdf) describing the vector project.
 
 # Compiling
 
